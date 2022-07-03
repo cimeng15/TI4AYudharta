@@ -1,4 +1,5 @@
 awal
+
 1.installasi laravel 9 via composer
 2.membuat link storage untuk penyimpadanan data image.
 "php artisan storage:link"
